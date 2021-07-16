@@ -64,13 +64,12 @@ table{
     margin-bottom: 30px;
 }
 .item{
-    width: 280px;
+    width: 560px;
     margin-bottom: 30px;
 }
 .item_box{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 .item img{
     border-radius: 30%;
